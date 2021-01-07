@@ -46,6 +46,9 @@ A repo with resources to learn Android Development
 ### Community
 * [Stackoverflow](https://stackoverflow.com/)
 
+### Sample project
+* [Android Jetpack](https://github.com/Abhimanyu14/android-jetpack-sample)
+
 ## Connect with me
 * [LinkedIn](https://www.linkedin.com/in/abhimanyu-n-273116169/)
 * [E-Mail ID](abhimanyu.n14@gmail.com)
